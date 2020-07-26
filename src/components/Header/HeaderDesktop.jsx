@@ -1,7 +1,12 @@
 import React from 'react';
+import NavDesktop from '../Nav/NavDesktop';
 
 function HeaderDesktop() {
-  return <>Hunt.GG - Desktop</>;
+  return (
+    <>
+      <NavDesktop />
+    </>
+  );
 }
 
 export default HeaderDesktop;

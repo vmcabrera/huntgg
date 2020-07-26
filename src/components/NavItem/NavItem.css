@@ -1,0 +1,15 @@
+.nav-link {
+  margin-right: 3rem;
+  color: gray;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.active {
+  color: white;
+}
